@@ -1,3 +1,5 @@
 tiifen
 lunch
+snacks
+dinner
 etc
